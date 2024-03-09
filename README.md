@@ -35,12 +35,18 @@ This project aims to provide comprehensive business insights through various per
 
 # Project View
 
-![Screenshot 2024-03-08 141259](https://github.com/parmoddhiman/-360-/assets/157885474/29c0d58b-4cb5-479d-9e0e-33af4f93e6ca)
-![Screenshot 2024-03-08 141321](https://github.com/parmoddhiman/-360-/assets/157885474/3d3af2cb-c0e5-48e2-931c-d2f43b68077f)
-![Screenshot 2024-03-08 141339](https://github.com/parmoddhiman/-360-/assets/157885474/2a9eb466-968a-44d9-8d82-64477405bb8e)
-![Screenshot 2024-03-08 141404](https://github.com/parmoddhiman/-360-/assets/157885474/4804433a-ad54-4c21-b994-7805ffdb5360)
-![Screenshot 2024-03-08 141425](https://github.com/parmoddhiman/-360-/assets/157885474/25157714-3ccb-4213-a765-18b92c5aae31)
-![Screenshot 2024-03-08 141444](https://github.com/parmoddhiman/-360-/assets/157885474/7815b30e-453a-4b01-b2d1-9727aac90bbf)
+![Screenshot 2024-03-08 141259](https://github.com/parmoddhiman/Business-Insights-360/assets/157885474/9739c06b-9cb1-40a0-b747-515ff6b5bbab)
+![Screenshot 2024-03-08 141321](https://github.com/parmoddhiman/Business-Insights-360/assets/157885474/fd653f1a-70e6-447d-a2c8-484659d00cee)
+![Screenshot 2024-03-08 141339](https://github.com/parmoddhiman/Business-Insights-360/assets/157885474/9278f9be-2845-4e25-8541-6d721c33be43)
+![Screenshot 2024-03-08 141404](https://github.com/parmoddhiman/Business-Insights-360/assets/157885474/142d55cf-be86-42f6-b0d0-45e71684244e)
+![Screenshot 2024-03-08 141425](https://github.com/parmoddhiman/Business-Insights-360/assets/157885474/58c4cf0d-0547-4047-954c-ce0c1cb5651a)
+![Screenshot 2024-03-08 141444](https://github.com/parmoddhiman/Business-Insights-360/assets/157885474/93153e84-fd7f-49cf-857c-ac08a674e89a)
+
+
+
+
+
+
 
 
 # Thankyou😊
